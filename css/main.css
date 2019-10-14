@@ -29,6 +29,7 @@ body {
 
 li {
   display: inline-block;
+  list-style-type: none;
   background-color: #713837;
   border: 3px solid #713837;
   color: #fff;
