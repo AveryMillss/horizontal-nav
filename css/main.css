@@ -12,8 +12,7 @@ html {
 h1 {
   display: block;
   margin: .3em;
-  padding-top: .5em;
-  font-family: "Bevan", cursive;
+  font-family: Bevan, serif;
 }
 
 body {
@@ -35,6 +34,8 @@ li {
   color: #fff;
   border-radius: 5px;
   padding: .5em;
+  margin: 0 auto;
+  margin-top: .3em;
 }
 
 li:hover {
