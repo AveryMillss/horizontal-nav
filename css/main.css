@@ -1,0 +1,49 @@
+html {
+  box-sizing: border-box;
+  background-color: #dbd6cf;
+  font-family: sans-serif;
+  line-height: 1.5rem
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+h1 {
+  display: block;
+  margin: .3em;
+  padding-top: .5em;
+  font-family: "Bevan", cursive;
+}
+
+body {
+  font-weight: bold;
+  text-align: center;
+  display: block;
+  background-color: #79756f;
+  border: 3px solid #595652;
+  overflow: hidden;
+  color: #fff;
+  margin: 0;
+}
+
+li {
+  display: inline-block;
+  background-color: #713837;
+  border: 3px solid #713837;
+  color: #fff;
+  border-radius: 5px;
+  padding: .5em;
+}
+
+li:hover {
+  background-color: #f33;
+  border-color: #f33;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: normal;
+  font-family: sans-serif;
+}
